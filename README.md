@@ -1,10 +1,8 @@
 ### Hi There 👋
-Current Projects
-[BypassIB](https://bypassib.tk)
 
-Go Check Out My Friend who Helped Me With BypassIB: [Avad3](https://github.com/Avad3)
+# Who We are
+Our Mission Is To Stop Internet Censorship
 
-[![Bypass Network's Github Stats](https://github-readme-stats.vercel.app/api?username=Bypass-Network&show_icons=true&theme=github_dark&locale=en&border_radius=35)](https://github.com/anuraghazra/github-readme-stats) 
 
 <!---
 JacksonDevelopment/JacksonDevelopment is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
