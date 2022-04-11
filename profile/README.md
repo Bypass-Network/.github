@@ -1,4 +1,6 @@
-
+<p align="center">
+<img width="120px" src="https://raw.githubusercontent.com/Bypass-Network/.github/main/img/102050392-modified.png">
+</p>
 
 <h1 align="center">Bypass Network</h1>
 
