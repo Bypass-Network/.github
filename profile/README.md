@@ -16,7 +16,7 @@ We are dedicated to ending censorship
 - Open Source
 
 ### Projects
-- [Tsunami]() - Main Proxy Site
+- 
 
 ### Contributors
 - [JacksonDevelopment](https://github.com/JacksonDevelopment) - Owner and Main Developer
