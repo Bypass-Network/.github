@@ -19,5 +19,6 @@ We are dedicated to ending censorship
 - 
 
 ### Contributors
-- [JacksonDevelopment](https://github.com/JacksonDevelopment) - Owner and Main Developer
+- [JacksonDevelopment](https://github.com/JacksonDevelopment) - Owner and Lead Developer
+- [Avad3](https://github.com/Avad3) - Lead Developer
 - [EnderKingJ](https://github.com/EnderKingJ) - Creator of Palladium
